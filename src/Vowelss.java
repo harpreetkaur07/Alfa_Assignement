@@ -1,6 +1,7 @@
-
+/*Write a recursive method, vowels that returns the number of
+        vowels in a string. also write a program for your method*/
 public class Vowelss {
-    //done by virender
+
     static int isVowel(char ch)
     {
         ch=Character.toUpperCase(ch);
