@@ -1,5 +1,6 @@
 
 public class Vowelss {
+    //done by virender
     static int isVowel(char ch)
     {
         ch=Character.toUpperCase(ch);
